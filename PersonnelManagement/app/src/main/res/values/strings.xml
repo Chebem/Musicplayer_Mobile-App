@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personnel Registration</string>
+    <string name="app_name2">Personnel Registration Form</string>
+    <string name="app_name3">Personnel Information</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="action_settings">Home</string>
+    <string name="action_settings2">Personnel Registration</string>
+
+</resources>
